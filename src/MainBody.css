@@ -1,0 +1,43 @@
+/* Category Navigation Bar */
+.category-bar .text-center {
+    flex: 1;
+    padding: 0 10px;
+  }
+  .category-bar .text-center i {
+    display: block;
+  }
+  
+  /* Carousel */
+  .carousel-inner img {
+    max-height: 400px;
+    object-fit: cover;
+  }
+  
+  /* Product Grid */
+  .product-grid h4 {
+    font-weight: bold;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 10px;
+  }
+  
+  .product-grid .card {
+    border: none;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product-grid .card img {
+    max-height: 150px;
+    object-fit: contain;
+    padding: 10px;
+  }
+  
+  .product-grid .card-title {
+    font-size: 0.9rem;
+    font-weight: bold;
+  }
+  
+  .product-grid .card-text {
+    font-size: 0.8rem;
+    margin: 0;
+  }
+  
